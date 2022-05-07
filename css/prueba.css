@@ -1,0 +1,8 @@
+header {
+  background-color: red; }
+  header nav {
+    text-align: center; }
+    header nav a {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+      header nav a:hover {
+        color: beige; }
